@@ -1,0 +1,3 @@
+datasets
+tensorboard
+models/public-static-modern-bert/checkpoint*
